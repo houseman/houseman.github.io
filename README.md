@@ -6,7 +6,7 @@
 
 - **email** `<scott.houseman@gmail.com>`
 - **mobile** `+27 78 765 1985`
-
+- *View this document online at [https://houseman.github.io/](https://houseman.github.io/)*
 ---
 
 ## Career
@@ -136,6 +136,11 @@ This position gave me exposure to management at a relatively young age (24 years
 
 ### Jam Warehouse
 > January 2002 - October 2002 (Fixed-term contract)
+
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 Contracted as senior PHP developer in the Virtual Need Engine {VNE) content management system project. Our team designed and implemented a bespoke CMS for Independent Online (IOL).
 
