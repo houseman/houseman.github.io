@@ -91,15 +91,22 @@ I developed the platform myself, using these technologies:
 - MySql
 - Bootstrap framework for HTML, CSS and Javascript
 
-The product was, I believe, a good one. I learned the following from this experience:
+During this time I experienced some extreme highs and lows, and learned new skills:
+- product marketing and management
+- finding, attracting and retaining customers
+- managing logistics (transport, livestock...amd people)
+- managing cash flow, and finances
+- dealing with adversity, and overcoming it
+
+The product offering was, I believe, a good one. However, for a number of reasons, the business was ultimately not viable, and was shut down at the end of August 2020.
+
+The experience of owning anr running my own business was both challenging and rewarding. I learned new skills and also some lessons:
 - ideas are good, but execution is everything
 - changing an industry is difficult; it takes a lot of time, and money, over-and-above engineering capabilities
 - being first is not necessarily a good thing; timing is important
 - being a one-person-show is a lonely pursuit; I enjoy having colleagues and no one person can fulfill all roles
 - a bad hire is worse than a vacant position; a poor appointment can (and probably will) do more harm than good
 - working for yourself does not really make your time flexible; if you are customer-focused you are always "on call"
-
-During this time I experienced some extreme highs and lows but, for a number of reasons, the business was ultimately a failure, and was shut down end August 2020.
 
 ### Internet Solutions
 > January 2005 - September 2015 (Full time)
