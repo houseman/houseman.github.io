@@ -2,11 +2,18 @@
 
 > _A senior backend software engineer, who has substantial experience in systems design and integration_.
 
-## Connect
+---
 
-- **email** `<scott.houseman@gmail.com>`
-- **mobile** `+27 78 765 1985`
-- *View this document online at [https://houseman.github.io/](https://houseman.github.io/)*
+## Contact Me
+
+Email
+: <scott.houseman@gmail.com>
+
+Mobile
+: +27 78 765 1985
+
+> *View this document online at [https://houseman.github.io/](https://houseman.github.io/)*
+
 ---
 
 ## Career
@@ -28,22 +35,28 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 I joined Takealot in September 2020, as a **Senior Software Engineer** (SSEI) in the Discovery Backend (DSCBE) team.
+
 This team's domain is product discovery within the Shopfront business unit. This covers a wide range of integrations:
-- Content (to a headless CMS)
-- Search (given the end user's search criteria, retrieve an return search results to frontend)
+- Content (through a headless Content Management System)
+- Search (given the end user's search criteria, pass these to a search API and return results to frontend)
 - Catalogue (for returned search results, or a context identifier such as SKU, retrieve catalogue data and return to frontend)
+- Promotions (retrieve promotion data for search hand product details endpoints)
 - Recommendations (given the user's context, retrieve product recommendations and return to frontend)
 - Advertising (given the user's context, retrieve sponsored product recommendations or banner ads and return to frontend)
 
 In addition to these shopfront components, additional marketing tech also falls within this teams purview:
-- Product data feeds to third-party aggregators (such as Google Marketplace, amongst others)
-- Newsletter integrations (event-based synchronisation of data to third-party communications provider)
+- Product data feeds to third-party aggregators (such as for example Google Marketplace, and others)
+- Newsletter integrations (event-based synchronisation of data to a third-party communications provider)
+- Contend Delivery (serve images through a CDN that supports on-the-fly transformations)
 
-Takealot is a great environment to be a part of; Everything is done at enormous scale, and runs on microservices in containerized Kubernetes clusters.
-The infrastructure at Takealot runs almost exclusively in Kubernetes, and engineers are expected to be proficient in managing and deploying to Kubernetes clusters (using Helm)
-The standard of engineering is very high, and I have been privileged to work alongside some of the smartest people in our industry. Takealot is a Python shop, and our team's work is almost exclusively implemented through Python. We follow a set of Python engineering best practices such as:
+The infrastructure at Takealot runs almost exclusively in Kubernetes, and engineers are expected to be proficient in managing and deploying to Kubernetes clusters (using Helm and Jenkins).
+
+Takealot is a great environment to be a part of; everything is done at enormous scale, the engineering standard is very high, and I have been privileged to work alongside some of the smartest people in our industry. Despite this high-performance environment, the culture remains one of cooperation and humility.
+
+Takealot is a Python shop, and our team's work is almost exclusively implemented through Python. We follow a set of Python engineering best practices such as:
 - Mypy static type-checker
 - Black code formatter
 - Flake8 code style-enforcer
@@ -52,11 +65,13 @@ The standard of engineering is very high, and I have been privileged to work alo
 We follow an Agile methodology; daily stand-up meetings, two-week sprints, backlog grooming, sprint planning etc. Deployment is continuous, and achieved through a Jenkins CI/CD pipeline.
 
 As a senior member of the DSCBE team, I have the following responsibilities and roles:
-- Mentor junior and intermediate team-members, mostly through code review
-- Seek technological advancement of our team's domain through continuous improvement
-- Design technical specifications that meet business requirements (at scale)
-- Project Lead; plan work into sprints, liaising with stakeholders (product managers, vendors, other teams) in order to ensure on-time project delivery
+- **Project Lead**; plan work into sprints, liaising with stakeholders (product managers, vendors, other teams) in order to ensure on-time project delivery
+- Be a **mentor** to junior and intermediate team-members, mostly through code review
+- Seek **technological advancement** of our team's domain through continuous improvement
+- Analyze business requirements, and **architect solutions ** that fulfill these requirements (at scale)
 - Interview engineering candidates, assess their abilities and suitability, and make appointment recommendations to management
+
+> As of 1 April 2023, I have progressed to **Senior Software Engineer II** at Takealot.com. This is a level-5 position (on a scale of 1 - 6, with 1 being Engineer I, and 6 being Principal Engineer).
 
 ### StockFair Online
 > October 2015 - September 2020
@@ -76,15 +91,15 @@ I developed the platform myself, using these technologies:
 - MySql
 - Bootstrap framework for HTML, CSS and Javascript
 
-The product was, I believe, a pretty good one. I learned the following from this experience:
-- ideas are just ideas; execution is everything
-- changing an industry is difficult; it takes a lot of time, and money!
+The product was, I believe, a good one. I learned the following from this experience:
+- ideas are good, but execution is everything
+- changing an industry is difficult; it takes a lot of time, and money, over-and-above engineering capabilities
 - being first is not necessarily a good thing; timing is important
-- being a one-person-show is a lonely pursuit; I enjoy having colleagues and no one person is the best at everything
-- a bad hire is worse than a vacant position; the wrong person for teh job can and will do more harm than good
+- being a one-person-show is a lonely pursuit; I enjoy having colleagues and no one person can fulfill all roles
+- a bad hire is worse than a vacant position; a poor appointment can (and probably will) do more harm than good
 - working for yourself does not really make your time flexible; if you are customer-focused you are always "on call"
 
-For a number of reasons, the business was ultimately a failure, and was shut down end August 2020.
+During this time I experienced some extreme highs and lows but, for a number of reasons, the business was ultimately a failure, and was shut down end August 2020.
 
 ### Internet Solutions
 > January 2005 - September 2015 (Full time)
@@ -142,7 +157,7 @@ This position gave me exposure to management at a relatively young age (24 years
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
-Contracted as senior PHP developer in the Virtual Need Engine {VNE) content management system project. Our team designed and implemented a bespoke CMS for Independent Online (IOL).
+Contracted as senior PHP developer in the Virtual News Engine {VNE) content management system project. Our team designed and implemented a bespoke CMS for Independent Online (IOL).
 
 ---
 
@@ -153,8 +168,10 @@ Contracted as senior PHP developer in the Virtual Need Engine {VNE) content mana
 | 2011 | Oracle University | Java Programming Language |
 | 1998 | WS & L | Diploma in Computer Programming |
 | 1997 | University of Stellenbosch | B.Sc (_incomplete_) |
-| 1996 | Grey High School | Matric |
+| 1996 | Grey High School | Matric Exemption |
 
 ---
 
-_Made with_ <br/> ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+_Made using_
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
