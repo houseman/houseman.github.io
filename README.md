@@ -22,6 +22,8 @@ Mobile
 >
 > September 2020 - Present (Full time)
 
+_Takealot.com is the leading ecommerce retailer in South Africa and one of the largest, most innovative ecommerce retailers on the African continent._
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
@@ -123,6 +125,9 @@ The experience of owning anr running my own business was both challenging and re
 >
 > October 2015 - March 2018 (Contract)
 
+_Internet Solutions (IS) is South Africa's leading converged communications solution provider. Internet
+Solutions is a division of Dimension Data._
+
 ![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?style=flat&logo=perl&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
@@ -147,13 +152,15 @@ After more than a decade of working for IS, I decided to attempt my onw startup 
 >
 > October 2002 - December 2004 (Full time)
 
+_Junk Mail Publishing is Africa's largest publisher of classified advertising._
+
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Windows NT](https://img.shields.io/badge/Windows%20NT-003399?style=flat&logo=windowsxp&logoColor=white)
 
-As **Head of IT** at Junk Mail Publishing (at the time the largest online classified advertising publisher in South Africa), I ran various development projects, and was also responsible for the general management of the IT department (IT help desk and Web Support).
+As **Head of IT** at Junk Mail Publishing (at the time the largest online classified advertising publisher in Africa), I ran various development projects, and was also responsible for the general management of the IT department (IT help desk and Web Support).
 
 One of the more memorable projects that I successfully implemented at Junk Mail, was South Africa's first classified ads SMS line.
 Advertisers could send their classified ad content via SMS to a mobile number that terminated to a Nokia GSM modem, connected to a Linux server by means of a RS232 serial cable. I wrote a Perl script that would poll the comm port and retrieve SMS data, sanitise and validate this data, and send it to a HTTP REST API which would insert this content into a queue for production.
@@ -173,6 +180,9 @@ This position gave me exposure to management at a relatively young age (24 years
 >
 > January 2002 - October 2002 (Fixed-term contract)
 
+_Jam Warehouse provides process and document management solutions to world-benchmarked
+organisations._
+
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
@@ -184,6 +194,9 @@ Contracted as **Senior PHP Developer** in the Virtual News Engine {VNE) content 
 > **Programmer and Systems Administrator**
 >
 > June 2001 - December 2001 (Full time)
+
+_Generator Communications is a South African-based multidisciplinary consultancy that builds and transforms
+businesses and other organizations online._
 
 ![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?style=flat&logo=perl&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
@@ -201,6 +214,8 @@ Contracted as **Senior PHP Developer** in the Virtual News Engine {VNE) content 
 >
 > November 2000 - May 2001 (Full time)
 
+_Visual Information Systems develops customised software solutions for a variety of customers._
+
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
@@ -215,6 +230,8 @@ Contracted as **Senior PHP Developer** in the Virtual News Engine {VNE) content 
 > **Junior Systems Engineer**
 >
 > May 1999 - October 2000 (Full time)
+
+_A business unit of Digital Networking Systems (DNS). DNS is a division of Dimension Data._
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
