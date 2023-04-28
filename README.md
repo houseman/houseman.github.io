@@ -180,6 +180,50 @@ This position gave me exposure to management at a relatively young age (24 years
 
 Contracted as **Senior PHP Developer** in the Virtual News Engine {VNE) content management system project. Our team designed and implemented a bespoke CMS for Independent Online (IOL).
 
+### Generator Communications
+> **Programmer and Systems Administrator**
+>
+> June 2001 - December 2001 (Full time)
+
+![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?style=flat&logo=perl&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+- Programming PHP on Linux and MySQL / PostgreSQL platform. Some Perl programming.
+- Development of the Incubator content management system, an in-house CMS system used to deploy and manage customers' web sites. Installation & administration of Windows 2000 active directory services domain as well as desktop support.
+- Administration of Apache HTTP servers on Linux platform. Administration of Internet Information Server (IIS) running on Windows 2000 Server platform.
+- Administration of MySQL, PostgreSQL and Microsoft SQL Server databases.
+
+### Visual Information Systems
+> **Programmer**
+>
+> November 2000 - May 2001 (Full time)
+
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+- Programming PHP on Linux with MySQL, Oracle & Informix databases.
+- Worked on internal product _CareerMatrix_, as well as projects for customers such as Intercape and Lithotech.
+- Visual Basic programming on Windows 2000 / Microsoft SQL server 2000 platform. Marketing management system for Siemens.
+
+### DNS Infotel
+> **Junior Systems Engineer**
+>
+> May 1999 - October 2000 (Full time)
+
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+
+- ASP programming on Microsoft Windows NT 4 / Microsoft SQL Server 7.0 platform.
+- PHP programming on Red Hat Linux 6 and MySQL / PostgreSQL platform. HTML and JavaScript programming.
+- Network support and some windows & UNIX system administration.
+
 ---
 
 ## Education
