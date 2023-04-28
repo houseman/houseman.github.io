@@ -18,6 +18,8 @@ Mobile
 
 ## Career
 ### Takealot.com
+> **Senior Software Engineer**
+>
 > September 2020 - Present (Full time)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -79,6 +81,8 @@ As a senior member of the DSCBE team, I have the following responsibilities and 
 > As of 1 April 2023, I have progressed to **Senior Software Engineer II** at Takealot.com. This is a level-5 position (on a scale of 1 - 6, with 1 being Engineer I, and 6 being Principal Engineer).
 
 ### StockFair Online
+> **Founder**
+>
 > October 2015 - September 2020
 
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white)
@@ -113,6 +117,8 @@ The experience of owning anr running my own business was both challenging and re
 - working for yourself does not really make your time more flexible; if you are customer-focused you are always "on call"
 
 ### Internet Solutions
+> **Senior Systems Engineer**
+>
 > January 2005 - September 2015 (Full time)
 >
 > October 2015 - March 2018 (Contract)
@@ -137,6 +143,8 @@ Various projects undertaken include:
 After more than a decade of working for IS, I decided to attempt my onw startup business. Fortunately, I was able to continue working with IS for a further 30 months, on a part-time contract basis.
 
 ### Junk Mail Publishing <https://www.junkmail.co.za/>
+> **Head of IT**
+>
 > October 2002 - December 2004 (Full time)
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
@@ -161,6 +169,8 @@ My duties at Junk Mail included:
 This position gave me exposure to management at a relatively young age (24 years old). I learned a lot; and was fortunate enough to receive some really excellent management training. I ultimately decided however, that I should pursue an Individual Contributor route in my career.
 
 ### Jam Warehouse
+> **Senior PHP Developer**
+>
 > January 2002 - October 2002 (Fixed-term contract)
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
@@ -168,7 +178,7 @@ This position gave me exposure to management at a relatively young age (24 years
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
-Contracted as senior PHP developer in the Virtual News Engine {VNE) content management system project. Our team designed and implemented a bespoke CMS for Independent Online (IOL).
+Contracted as **Senior PHP Developer** in the Virtual News Engine {VNE) content management system project. Our team designed and implemented a bespoke CMS for Independent Online (IOL).
 
 ---
 
