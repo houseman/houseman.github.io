@@ -18,11 +18,12 @@ Mobile
 
 ## Career
 ### Takealot.com
+
+_Takealot.com is the leading ecommerce retailer in South Africa and one of the largest, most innovative ecommerce retailers on the African continent._
+
 > **Senior Software Engineer**
 >
 > September 2020 - Present (Full time)
-
-_Takealot.com is the leading ecommerce retailer in South Africa and one of the largest, most innovative ecommerce retailers on the African continent._
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
@@ -119,14 +120,15 @@ The experience of owning anr running my own business was both challenging and re
 - working for yourself does not really make your time more flexible; if you are customer-focused you are always "on call"
 
 ### Internet Solutions
+
+_Internet Solutions (IS) is South Africa's leading converged communications solution provider. Internet
+Solutions is a division of Dimension Data._
+
 > **Senior Systems Engineer**
 >
 > January 2005 - September 2015 (Full time)
 >
 > October 2015 - March 2018 (Contract)
-
-_Internet Solutions (IS) is South Africa's leading converged communications solution provider. Internet
-Solutions is a division of Dimension Data._
 
 ![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?style=flat&logo=perl&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white)
@@ -147,12 +149,13 @@ Various projects undertaken include:
 
 After more than a decade of working for IS, I decided to attempt my onw startup business. Fortunately, I was able to continue working with IS for a further 30 months, on a part-time contract basis.
 
-### Junk Mail Publishing <https://www.junkmail.co.za/>
+### Junk Mail Publishing
+
+_Junk Mail Publishing is Africa's largest publisher of classified advertising._
+
 > **Head of IT**
 >
 > October 2002 - December 2004 (Full time)
-
-_Junk Mail Publishing is Africa's largest publisher of classified advertising._
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
@@ -191,12 +194,13 @@ organisations._
 Contracted as **Senior PHP Developer** in the Virtual News Engine {VNE) content management system project. Our team designed and implemented a bespoke CMS for Independent Online (IOL).
 
 ### Generator Communications
-> **Programmer and Systems Administrator**
->
-> June 2001 - December 2001 (Full time)
 
 _Generator Communications is a South African-based multidisciplinary consultancy that builds and transforms
 businesses and other organizations online._
+
+> **Programmer and Systems Administrator**
+>
+> June 2001 - December 2001 (Full time)
 
 ![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?style=flat&logo=perl&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
@@ -210,11 +214,12 @@ businesses and other organizations online._
 - Administration of MySQL, PostgreSQL and Microsoft SQL Server databases.
 
 ### Visual Information Systems
+
+_Visual Information Systems develops customised software solutions for a variety of customers._
+
 > **Programmer**
 >
 > November 2000 - May 2001 (Full time)
-
-_Visual Information Systems develops customised software solutions for a variety of customers._
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
@@ -227,11 +232,12 @@ _Visual Information Systems develops customised software solutions for a variety
 - Visual Basic programming on Windows 2000 / Microsoft SQL server 2000 platform. Marketing management system for Siemens.
 
 ### DNS Infotel
+
+_A business unit of Digital Networking Systems (DNS). DNS is a division of Dimension Data._
+
 > **Junior Systems Engineer**
 >
 > May 1999 - October 2000 (Full time)
-
-_A business unit of Digital Networking Systems (DNS). DNS is a division of Dimension Data._
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
