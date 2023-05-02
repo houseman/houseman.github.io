@@ -153,9 +153,13 @@ After more than a decade of working for IS, I decided to attempt my onw startup 
 
 _Junk Mail Publishing is Africa's largest publisher of classified advertising._
 
-> **Head of IT**
+> **Software Development Manager**
 >
-> October 2002 - December 2004 (Full time)
+> April 2004 - December 2004 (Full time)
+>
+> **Senior Software Developer**
+>
+> October 2002 - March 2004 (Full time)
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
@@ -163,7 +167,7 @@ _Junk Mail Publishing is Africa's largest publisher of classified advertising._
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Windows NT](https://img.shields.io/badge/Windows%20NT-003399?style=flat&logo=windowsxp&logoColor=white)
 
-As **Head of IT** at Junk Mail Publishing (at the time the largest online classified advertising publisher in Africa), I ran various development projects, and was also responsible for the general management of the IT department (IT help desk and Web Support).
+I started my career at Junk Mail Publishing (at the time the largest online classified advertising publisher in Africa) as **Senior Software Developer**, running various software development projects for the business. I also acted as the IT Department Supervisor, responsible for the general management of the IT department (IT help desk and Web Support).
 
 One of the more memorable projects that I successfully implemented at Junk Mail, was South Africa's first classified ads SMS line.
 Advertisers could send their classified ad content via SMS to a mobile number that terminated to a Nokia GSM modem, connected to a Linux server by means of a RS232 serial cable. I wrote a Perl script that would poll the comm port and retrieve SMS data, sanitise and validate this data, and send it to a HTTP REST API which would insert this content into a queue for production.
@@ -175,8 +179,11 @@ My duties at Junk Mail included:
 - Managing project deliverables, and expectations
 - Business Requirements Analysis, and solutions Design
 - Presenting progress reports to the Executive Committee
+- Evaluation and recommendation of product and service vendors
 
-This position gave me exposure to management at a relatively young age (24 years old). I learned a lot; and was fortunate enough to receive some really excellent management training. I ultimately decided however, that I should pursue an Individual Contributor route in my career.
+> From April 2004 I was promoted to the title of **Software Development Manager** at Junk Mail Publishing.
+
+This position offered me exposure to management at a relatively young age (24 years old). I learned much, and I was fortunate enough to receive some really excellent management training. I ultimately decided however, that I should pursue an Individual Contributor route in my career.
 
 ### Jam Warehouse
 > **Senior PHP Developer**
@@ -191,7 +198,18 @@ organisations._
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
-Contracted as **Senior PHP Developer** in the Virtual News Engine {VNE) content management system project. Our team designed and implemented a bespoke CMS for Independent Online (IOL).
+Contracted as **Lead PHP Developer** in the Virtual News Engine (VNE) content management system project. Our team designed and implemented this bespoke CMS for Independent Online (IOL).
+
+The VNE platform was developed using PHP 4 and MySQL on a FreeBSD host running Apache HTTP Server. VNE enabled IOL to deliver news content across all brands & publications from a single dashboard.
+
+My duties for this project included:
+- software architecture
+- quality assurance
+- system administration
+- management of a small development team
+
+I reported directly to the company's Technical Director.
+
 
 ### Generator Communications
 
