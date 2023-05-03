@@ -52,7 +52,7 @@ This team's domain is product discovery within the Shopfront business unit. This
 - Recommendations (given the user's context, retrieve product recommendations and return to frontend)
 - Advertising (given the user's context, retrieve sponsored product recommendations or banner ads and return to frontend)
 
-In addition to these shopfront components, additional marketing tech also falls within this teams purview:
+In addition to these shopfront components, some marketing tech also falls within this teams purview:
 - Catalogue data feeds to third-party aggregators (such as for example Google Marketplace, and others)
 - Messaging integrations (event-based synchronisation of data to a third-party communications provider for delivery of email and push notifications)
 - Contend Delivery (serve images through a CDN that supports on-the-fly transformations)
@@ -81,6 +81,10 @@ As a senior member of the DSCBE team, I have the following responsibilities and 
 - Seek **technological advancement** of our team's domain through continuous improvement
 - Interview engineering candidates, assess their abilities and suitability, and make appointment recommendations to management
 
+In addition to my mandated responsibilities, I have also participated in the following:
+- 2022 & 2023 Takealot Graduate Programme training; as course co-presenter for _Python_, _Databases_ and _Unit Testing_ modules
+- 2021 & 2022 Takealot Engineering department mentor programme;as a mentor
+
 > As of 1 April 2023, I have progressed to **Senior Software Engineer II** at Takealot.com. This is a level-5 position (on a scale of 1 - 6, with 1 being Engineer I, and 6 being Principal Engineer).
 
 ### StockFair Online
@@ -98,6 +102,8 @@ As a senior member of the DSCBE team, I have the following responsibilities and 
 StockFair was my own startup business, which operated for just under five years, from October 2015 until September 2020.
 
 The business' mission was to be the first and best online auction platform, for the sale of livestock in South Africa.
+I identified the process of carting (to and from), holding and selling livestock at a conventional saleyard to be inefficient and archaic; ripe for a revolution!
+
 I developed the platform myself, using these technologies:
 - Symfony Framework (PHP 5)
 - MySql
