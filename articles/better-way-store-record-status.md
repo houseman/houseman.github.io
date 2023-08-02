@@ -141,3 +141,37 @@ WHERE
     product_status_id=1
 ;
 ```
+
+Another nice thing that this abstraction offers us is the ability to log status changes.
+```sql
+-- Postgres
+CREATE TABLE product_status_log (
+  product_id INTEGER NOT NULL,
+  product_status_id INTEGER NOT NULL,
+  logged_at TIMESTAMP WITH TIME ZONE DEFAULT now(),
+  FOREIGN KEY (product_id) REFERENCES product (product_id),
+  FOREIGN KEY (product_status_id) REFERENCES product_status (product_status_id)
+);
+```
+And we get a nice log
+```sql
+SELECT p.title, ps.status_uid, psl.logged_at
+    FROM product p
+    JOIN product_status_log psl
+        ON p.product_id=psl.product_id
+    JOIN product_status ps
+        ON psl.product_status_id=ps.product_status_id
+WHERE
+    p.product_id=3
+ORDER BY
+    psl.logged_at ASC
+;
+          title          | status_uid |           logged_at
+-------------------------+------------+-------------------------------
+ SolarGlow Garden Lights | in stock   | 2023-08-03 00:36:56.830402+02
+ SolarGlow Garden Lights | on order   | 2023-08-03 00:37:01.222067+02
+ SolarGlow Garden Lights | sold out   | 2023-08-03 00:37:06.101503+02
+ SolarGlow Garden Lights | archived   | 2023-08-03 00:37:11.805526+02
+ SolarGlow Garden Lights | in stock   | 2023-08-03 00:37:25.575631+02
+(5 rows)
+```
