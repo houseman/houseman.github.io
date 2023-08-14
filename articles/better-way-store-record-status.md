@@ -37,17 +37,17 @@ CREATE TABLE product (
 This limits the possible value of `status` to one of 'in stock', 'on order', 'unavailable' or 'deleted'.
 
 There are several benefits of using an `enum` type over a `varchar`:
-1. **Data Integrity**: With enum, you can ensure that the value is always within a specific set of values. This is not possible with varchar (unless you add a `CHECK` constraint).
+1. **Data Integrity**: ensure that the value is always within a specific set of values. This is not possible with varchar (unless you add a `CHECK` constraint).
 2. **Performance**: `enum` values are internally sorted according to their order in the `enum` type declaration, not their lexicographical order. This can lead to more efficient sorting and indexing.
 3. **Readability**: `enum` types can make your code more readable and self-documenting by making it clear what values are allowed for a field.
 4. **Storage**: `enum` values are stored as integers, which can be more space-efficient than `varchar`.
 
-However, adding new values to an `enum` type requires an `ALTER TYPE` statement, which can be a heavy operation if your database is large.
+**However**, adding new values to an `enum` type requires an `ALTER TYPE` statement, which can be a heavy operation if your database is large.
 
 ### Metadata
 These enum status values have the following semantics with regards to a Product:
 
-| Value | In (warehouse) stock | On back order | Purchasable (Buyable) | Visible in Order History |
+| Value | In (warehouse) stock | On back order | Buyable | Visible in Order History |
 | - | - | - | - | - |
 | `in stock` | Yes | No | Yes | Yes |
 | `on order` | No | Yes | Yes | Yes |
@@ -77,7 +77,7 @@ class ProductStatus:
     def create(cls, status: str) -> ProductStatus:
         """Create a `ProductStatus` instance derived from the given string"""
 
-        match status:
+        match status.lower():
             case "in stock":
                 return ProductStatus(
                     is_in_stock=True,
