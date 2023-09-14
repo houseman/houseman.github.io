@@ -1,0 +1,40 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: redis-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: redis
+  template:
+    metadata:
+      labels:
+        app: redis
+    spec:
+      containers:
+        - name: redis
+          image: redis:latest
+          ports:
+            - containerPort: 6379
+          resources:
+            limits:
+              memory: "256Mi" # Set the memory limit to 256 megabytes
+              cpu: "0.5" # Set the CPU limit to 0.5 CPU cores
+            requests:
+              memory: "128Mi" # Set the initial memory request to 128 megabytes
+              cpu: "0.25" # Set the initial CPU request to 0.25 CPU cores
+          volumeMounts:
+            - name: config
+              mountPath: /etc/redis # include the ConfigMap as a volume and mount it into the Redis pod.
+          env:
+            - name: REDIS_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: redis-secret
+                  key: redis-password
+          command: ["redis-server", "/etc/redis/redis.conf"]
+      volumes:
+        - name: config
+          configMap:
+            name: redis-config
