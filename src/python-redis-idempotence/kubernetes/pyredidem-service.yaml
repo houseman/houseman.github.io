@@ -1,14 +1,12 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: redis
-  labels:
-    app: redis # Label for this Service
+  name: pyredidem-service
 spec:
   selector:
-    app: redis # Selector to match pods with the label 'app: redis'
+    app: pyredidem
   ports:
     - protocol: TCP
-      port: 6379
-      targetPort: 6379
+      port: 8080
+      targetPort: 8080
   type: ClusterIP # Use ClusterIP if you want to access Redis internally within the cluster

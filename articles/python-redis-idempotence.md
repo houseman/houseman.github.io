@@ -47,3 +47,15 @@ OK
 "Foo, bar!"
 127.0.0.1:6380>
 ```
+
+## Build a local Docker image
+```shell
+❯ docker build -t pyredidem:latest . --file Dockerfile
+
+```
+
+## Deploy the service
+```shell
+❯ kubectl --context rancher-desktop apply -f kubernetes/pyredidem-deployment.yaml
+deployment.apps/pyredidem-deployment configured
+```

@@ -19,7 +19,10 @@ classifiers = [
 
 keywords = ["redis", "idempotence"]
 
-dependencies = ["flask", "redis"]
+dependencies = [
+  "flask",          # Flask framework
+  "redis[hiredis]", # For faster performance, install redis with hiredis support
+]
 
 [project.optional-dependencies]
 
@@ -75,9 +78,9 @@ ignore = [
 # The directories to consider when resolving first- vs. third-party imports.
 src = ["src"]
 # Same as Black.
-line-length = 88
+line-length = 100
 # The minimum Python version to target i.e always generate code compatible to this version
-target-version = "py38"
+target-version = "py311"
 
 [tool.ruff.per-file-ignores]
 "**/tests/*" = [
@@ -93,7 +96,8 @@ target-version = "py38"
 lines-between-types = 1
 
 [tool.black]
-target-versions = ["py38"]
+target-versions = ["py311"]
+line-length = 100
 
 [tool.mypy]
 files = ["src"]

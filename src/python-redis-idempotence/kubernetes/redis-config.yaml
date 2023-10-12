@@ -1,8 +1,0 @@
-# ConfigMap in Kubernetes that contains the Redis configuration
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: redis-config
-data:
-  redis.conf: |
-    requirepass YourPasswordHere
